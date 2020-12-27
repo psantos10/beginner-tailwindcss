@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="/index.HASH_REF_c57865c4203b6d725ef3d077c395e515.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beginner Tailwind</title>
+</head>
+<body class="bg-red-500 text-6xl">
+  Hello, I am a Website!
+
+  <script src="/index.HASH_REF_8221099e491eb20024cecadbb7378ca6.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "beginner-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "parcel": "^2.0.0-alpha.3.2",
+    "postcss": "^8.2.1",
+    "postcss-modules": "latest",
+    "prettier": "^2.2.1"
+  }
+}
